@@ -13,7 +13,7 @@ function User(name) {
   }
 }
  
-var user = new User('John')
+let user = new User('John')
 
 
 It means that the closure of this code is:
